@@ -32,6 +32,7 @@ The analysis combines telecom expense management concepts with SQL-based data an
 | DAX | KPI calculations and month-over-month comparisons |
 
 ## Dashboard 1 — Telecom Expense Overview
+![Telecom Expense Overview](Dashboard_Screenshots/Dashboard_1_Overview.png)
 
 Provides a high-level view of telecom spending.
 
@@ -48,6 +49,7 @@ Provides a high-level view of telecom spending.
 - Billing and Line Status Filters
 
 ## Dashboard 2 — Billing Audit & Cost Optimization
+![Billing Audit Dashboard](Dashboard_Screenshots/Dashboard_2_Billing_Audit.png)
 
 Focuses on identifying high-cost lines and investigating overages.
 
@@ -60,6 +62,7 @@ Focuses on identifying high-cost lines and investigating overages.
 **Business Purpose:** Help prioritize lines and billing patterns for further investigation.
 
 ## Dashboard 3 — Usage & Plan Optimization
+![Usage and Plan Optimization](Dashboard_Screenshots/Dashboard_3_Usage_Optimization.png)
 
 Analyzes telecom data consumption and plan-level costs.
 
