@@ -1,5 +1,7 @@
-Create Database Telecom_Expense_Report;
+CREATE DATABASE IF NOT EXISTS Telecom_Expense_Report;
+
 Use Telecom_Expense_Report;
+
 SELECT * FROM telecom_data;
 
 -- Query 1: Check the dataset
